@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 18.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="mask_x5F_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="800px" height="75px" viewBox="94 359 800 75" enable-background="new 94 359 800 75" xml:space="preserve">
+<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="94.5" y1="434" x2="94.5" y2="434.75" gradientTransform="matrix(1 0 0 -1 0 794)">
+	<stop  offset="0" style="stop-color:#000000"/>
+	<stop  offset="1" style="stop-color:#FFFFFF"/>
+</linearGradient>
+<rect x="94" y="359" fill="url(#SVGID_1_)" width="1" height="1"/>
+<linearGradient id="mask_1_" gradientUnits="userSpaceOnUse" x1="494" y1="360" x2="494" y2="435" gradientTransform="matrix(1 0 0 -1 0 794)">
+	<stop  offset="0.2" style="stop-color:#FFFFFF"/>
+	<stop  offset="1" style="stop-color:#FFFFFF;stop-opacity:0"/>
+</linearGradient>
+<rect id="mask" x="94" y="359" fill="url(#mask_1_)" width="800" height="75"/>
+</svg>

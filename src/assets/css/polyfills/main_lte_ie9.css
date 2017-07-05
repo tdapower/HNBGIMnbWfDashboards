@@ -1,0 +1,65 @@
+/* line 24, ../../_partials/sass/polyfill/main_lte_ie9.scss */
+.container_placeholder {
+  overflow: hidden;
+  vertical-align: middle;
+  height: 100%; }
+
+/* line 29, ../../_partials/sass/polyfill/main_lte_ie9.scss */
+.label_placeholder {
+  color: #0c639a;
+  cursor: text;
+  font-weight: 400;
+  font-size: 16.363px;
+  font-size: .82rem;
+  height: auto;
+  left: 50%;
+  letter-spacing: 0.1em;
+  line-height: inherit;
+  margin: 0 auto;
+  overflow: visible;
+  padding-left: 16px;
+  position: absolute;
+  text-transform: uppercase;
+  top: 50%;
+  -webkit-transform: translate(-50%, -50%);
+     -moz-transform: translate(-50%, -50%);
+      -ms-transform: translate(-50%, -50%);
+          transform: translate(-50%, -50%);
+  width: 100%; }
+  /* line 48, ../../_partials/sass/polyfill/main_lte_ie9.scss */
+  .label_placeholder:focus + input, .label_placeholder:focus + textarea, .label_placeholder:active + input, .label_placeholder:active + textarea, .label_placeholder.active + input, .label_placeholder.active + textarea {
+    color: #9da9b3 !important; }
+
+/* line 57, ../../_partials/sass/polyfill/main_lte_ie9.scss */
+input:focus + .label_placeholder, input:active + .label_placeholder, input.active + .label_placeholder, textarea:focus + .label_placeholder, textarea:active + .label_placeholder, textarea.active + .label_placeholder {
+  color: #9da9b3 !important; }
+
+/* line 62, ../../_partials/sass/polyfill/main_lte_ie9.scss */
+.card_cover:before, .card_cover_dark:before {
+  zoom: 1;
+  z-index: 0; }
+
+/* line 66, ../../_partials/sass/polyfill/main_lte_ie9.scss */
+.card_cover, .card_cover_dark {
+  z-index: 1; }
+
+/* line 69, ../../_partials/sass/polyfill/main_lte_ie9.scss */
+.card .card_label.card_label_top:before {
+  z-index: -1;
+  background-image: url(../../img/bg/card_mask_dark_invert.svg);
+  zoom: 1; }
+
+/* line 75, ../../_partials/sass/polyfill/main_lte_ie9.scss */
+.card .card_label {
+  z-index: 1 !important;
+  zoom: 1; }
+
+/* line 79, ../../_partials/sass/polyfill/main_lte_ie9.scss */
+.card .card_label_top {
+  position: relative !important;
+  z-index: 2 !important; }
+
+/* line 83, ../../_partials/sass/polyfill/main_lte_ie9.scss */
+.card .card_label.card_bottom:before {
+  z-index: -1;
+  zoom: 1; }

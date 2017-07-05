@@ -1,0 +1,19 @@
+require([
+    'avoid_console_conflicts',
+    'general_functions',
+    'menu',
+    'colors',
+    'tables',
+	'toggle',
+    'accordion_setup',
+    'clickable',
+    'search',
+    'breadcrumbs',
+    'header',
+    'footer',
+    'polyfills',
+    'select_dropdown',
+    'faq',
+    'magnific_init'
+    /*,'analytics'*/
+]);
